@@ -1,0 +1,2885 @@
+AGE-RAGE signaling pathway in diabetic complications
+Activation of Matrix Metalloproteinases
+Acute myeloid leukemia
+Adaptive Immune System
+Adherens junction
+Adipocytokine signaling pathway
+African trypanosomiasis
+Alcoholic liver disease
+Allograft rejection
+Amoebiasis
+Antigen processing and presentation
+Antigen processing-Cross presentation
+Apoptosis
+Apoptosis - multiple species
+Assembly of collagen fibrils and other multimeric structures
+Asthma
+Autoimmune thyroid disease
+Axon guidance
+Axon guidance
+B cell activation
+B cell activation involved in immune response
+B cell apoptotic process
+B cell differentiation
+B cell homeostasis
+B cell mediated immunity
+B cell proliferation
+B cell receptor signaling pathway
+BMP receptor activity
+BMP receptor binding
+BMP signaling pathway
+Basal cell carcinoma
+Bladder cancer
+Breast cancer
+C-C chemokine binding
+C-C chemokine receptor activity
+C-X-C chemokine binding
+C-X-C chemokine receptor activity
+C-type lectin receptor signaling pathway
+CASP8 activity is inhibited
+CCR chemokine receptor binding
+CCR1 chemokine receptor binding
+CCR5 chemokine receptor binding
+"CD4-positive or CD8-positive, alpha-beta T cell lineage commitment"
+"CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation"
+"CD4-positive, alpha-beta T cell activation"
+"CD4-positive, alpha-beta T cell cytokine production"
+"CD4-positive, alpha-beta T cell differentiation"
+"CD4-positive, alpha-beta T cell differentiation involved in immune response"
+"CD4-positive, alpha-beta T cell lineage commitment"
+"CD4-positive, alpha-beta T cell proliferation"
+"CD8-positive, alpha-beta T cell activation"
+COPII-coated ER to Golgi transport vesicle
+CXCR chemokine receptor binding
+Caspase activation via Death Receptors in the presence of ligand
+Caspase activation via extrinsic apoptotic signalling pathway
+Cell adhesion molecules
+Cell recruitment (pro-inflammatory response)
+Cell surface interactions at the vascular wall
+Cellular senescence
+Central carbon metabolism in cancer
+Chagas disease
+Chemical carcinogenesis - receptor activation
+Chemokine receptors bind chemokines
+Chemokine signaling pathway
+Chronic myeloid leukemia
+Class A/1 (Rhodopsin-like receptors)
+Class B/2 (Secretin family receptors)
+Co-inhibition by PD-1
+Collagen biosynthesis and modifying enzymes
+Collagen chain trimerization
+Collagen degradation
+Collagen formation
+Colorectal cancer
+Constitutive Signaling by Aberrant PI3K in Cancer
+Coronavirus disease - COVID-19
+Cytokine Signaling in Immune system
+Cytokine-cytokine receptor interaction
+D-glucose transmembrane transport
+DAP12 interactions
+DNA biosynthetic process
+"DNA damage response, signal transduction by p53 class mediator"
+DNA-binding transcription activator activity
+"DNA-binding transcription activator activity, RNA polymerase II-specific"
+DNA-binding transcription factor binding
+DNA-templated transcription
+Degradation of the extracellular matrix
+Developmental Biology
+Dimerization of procaspase-8
+Disease
+Diseases associated with the TLR signaling cascade
+Diseases of Immune System
+Diseases of signal transduction by growth factor receptors and second messengers
+Downstream signal transduction
+ECM proteoglycans
+ECM-receptor interaction
+EGFR tyrosine kinase inhibitor resistance
+EPH-Ephrin signaling
+EPH-ephrin mediated repulsion of cells
+EPHA-mediated growth cone collapse
+ER to Golgi transport vesicle membrane
+ERBB signaling pathway
+ERBB2 Activates PTK6 Signaling
+ERBB2 signaling pathway
+ERK1 and ERK2 cascade
+Efferocytosis
+Elastic fibre formation
+Endocrine resistance
+Ephrin signaling
+Epithelial cell signaling in Helicobacter pylori infection
+Epstein-Barr virus infection
+ErbB signaling pathway
+Erythropoietin activates STAT5
+Estrogen signaling pathway
+Extra-nuclear estrogen signaling
+Extracellular matrix organization
+FACIT collagen trimer
+FOXO-mediated transcription
+Fc receptor mediated stimulatory signaling pathway
+Fc receptor signaling pathway
+Fc-gamma receptor signaling pathway
+Fc-gamma receptor signaling pathway involved in phagocytosis
+Fibronectin matrix formation
+Fluid shear stress and atherosclerosis
+Focal adhesion
+Formation of definitive endoderm
+FoxO signaling pathway
+G alpha (i) signalling events
+G protein-coupled chemoattractant receptor activity
+G protein-coupled receptor activity
+G protein-coupled receptor binding
+G protein-coupled receptor signaling pathway
+GPCR downstream signalling
+GPCR ligand binding
+Gastric cancer
+Generation of second messenger molecules
+Germ layer formation at gastrulation
+Glioma
+Golgi apparatus
+Golgi lumen
+Graft-versus-host disease
+HIF-1 signaling pathway
+Hematopoietic cell lineage
+Hemostasis
+Hepatitis B
+Hepatitis C
+Hepatocellular carcinoma
+Hippo signaling pathway
+Human T-cell leukemia virus 1 infection
+Human cytomegalovirus infection
+Human immunodeficiency virus 1 infection
+Human papillomavirus infection
+Hypertrophic cardiomyopathy
+I-SMAD binding
+I-kappaB phosphorylation
+IL-17 signaling pathway
+IL-6-type cytokine receptor ligand interactions
+IRAK4 deficiency (TLR2/4)
+Immune System
+Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell
+Inactivation of CSF3 (G-CSF) signaling
+Infectious disease
+Inflammasomes
+Inflammatory bowel disease
+Influenza A
+Innate Immune System
+Integrin cell surface interactions
+Interferon Signaling
+Interferon alpha/beta signaling
+Interferon gamma signaling
+Interleukin receptor SHC signaling
+Interleukin-1 processing
+Interleukin-10 signaling
+Interleukin-12 family signaling
+Interleukin-12 signaling
+Interleukin-15 signaling
+Interleukin-2 family signaling
+Interleukin-2 signaling
+Interleukin-20 family signaling
+Interleukin-21 signaling
+Interleukin-23 signaling
+Interleukin-27 signaling
+"Interleukin-3, Interleukin-5 and GM-CSF signaling"
+Interleukin-35 Signalling
+Interleukin-4 and Interleukin-13 signaling
+Interleukin-6 family signaling
+Interleukin-6 signaling
+Interleukin-9 signaling
+Intestinal immune network for IgA production
+Intracellular signaling by second messengers
+JAK-STAT signaling pathway
+JNK cascade
+Kaposi sarcoma-associated herpesvirus infection
+Laminin interactions
+Langerhans cell differentiation
+Legionellosis
+Leishmaniasis
+Leukocyte transendothelial migration
+Lipid and atherosclerosis
+Loss of Function of SMAD2/3 in Cancer
+Loss of Function of TGFBR1 in Cancer
+MAP kinase tyrosine phosphatase activity
+MAPK cascade
+MAPK family signaling cascades
+MAPK signaling pathway
+MAPK1/MAPK3 signaling
+MET activates PTK2 signaling
+MET promotes cell motility
+MHC class I protein binding
+MHC class I protein complex
+MHC class II biosynthetic process
+MHC class II protein complex
+MHC class II protein complex assembly
+MHC class II protein complex binding
+MHC protein binding
+MHC protein complex
+MHC protein complex assembly
+MHC protein complex binding
+Malaria
+Measles
+Melanogenesis
+Melanoma
+MicroRNAs in cancer
+Molecules associated with elastic fibres
+MyD88 deficiency (TLR2/4)
+MyD88:MAL(TIRAP) cascade initiated on plasma membrane
+NAD+ nucleosidase activity
+"NAD+ nucleotidase, cyclic ADP-ribose generating"
+NADP+ nucleosidase activity
+NCAM signaling for neurite out-growth
+NCAM1 interactions
+NF-kappa B signaling pathway
+NFE2L2 regulating tumorigenic genes
+NK T cell activation
+NK T cell proliferation
+NOD-like receptor signaling pathway
+Natural killer cell mediated cytotoxicity
+Necroptosis
+Negative regulation of the PI3K/AKT network
+Nervous system development
+Neutrophil degranulation
+Neutrophil extracellular trap formation
+Non-alcoholic fatty liver disease
+Non-integrin membrane-ECM interactions
+Non-small cell lung cancer
+Notch signaling pathway
+Notch-HLH transcription pathway
+Nuclear Receptor transcription pathway
+Osteoclast differentiation
+Other interleukin signaling
+PD-L1 expression and PD-1 checkpoint pathway in cancer
+PI3K-Akt signaling pathway
+PI3K/AKT Signaling in Cancer
+"PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling"
+PIP3 activates AKT signaling
+Pancreatic cancer
+Pathogenic Escherichia coli infection
+Pathways in cancer
+Peptide ligand-binding receptors
+Pertussis
+Phagosome
+Phosphorylation of CD3 and TCR zeta chains
+Platelet Adhesion to exposed collagen
+"Platelet activation, signaling and aggregation"
+Platelet degranulation 
+Platinum drug resistance
+Primary immunodeficiency
+Prolactin signaling pathway
+Prostate cancer
+Protein digestion and absorption
+Proteoglycans in cancer
+Purinergic signaling in leishmaniasis infection
+R-SMAD binding
+RAF-independent MAPK1/3 activation
+RAF/MAP kinase cascade
+RAGE receptor binding
+RIG-I-like receptor signaling pathway
+RNA polymerase II transcription regulator complex
+RNA polymerase II-specific DNA-binding transcription factor binding
+RUNX1 and FOXP3 control the development of regulatory T lymphocytes (Tregs)
+RUNX2 regulates bone development
+RUNX3 regulates CDKN1A transcription
+Rap1 signaling pathway
+Ras signaling pathway
+Regulated Necrosis
+Regulation by c-FLIP
+Regulation of FZD by ubiquitination
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)
+Regulation of T cell activation by CD28 family
+Regulation of TLR by endogenous ligand
+Regulation of actin cytoskeleton
+Relaxin signaling pathway
+Renal cell carcinoma
+Response to elevated platelet cytosolic Ca2+
+Rheumatoid arthritis
+SARS-CoV-2 activates/modulates innate and adaptive immune responses
+SMAD binding
+SMAD protein signal transduction
+SMAD2/3 Phosphorylation Motif Mutants in Cancer
+STAT3 nuclear events downstream of ALK signaling
+SUMOylation of intracellular receptors
+Salmonella infection
+Scavenging by Class A Receptors
+Shigellosis
+Signal Transduction
+Signaling by Activin
+Signaling by CSF1 (M-CSF) in myeloid cells
+Signaling by CSF3 (G-CSF)
+Signaling by GPCR
+Signaling by Interleukins
+Signaling by KIT in disease
+Signaling by MET
+Signaling by Non-Receptor Tyrosine Kinases
+Signaling by PDGF
+Signaling by PTK6
+Signaling by Receptor Tyrosine Kinases
+Signaling by SCF-KIT
+Signaling by TGF-beta Receptor Complex in Cancer
+Signaling by TGFB family members
+Signaling by VEGF
+"Signaling by phosphorylated juxtamembrane, extracellular and kinase domain KIT mutants"
+Signaling pathways regulating pluripotency of stem cells
+Small cell lung cancer
+Smooth Muscle Contraction
+Staphylococcus aureus infection
+Syndecan interactions
+Synthesis of Prostaglandins (PG) and Thromboxanes (TX)
+T cell activation
+T cell activation involved in immune response
+T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell
+T cell apoptotic process
+T cell chemotaxis
+T cell costimulation
+T cell cytokine production
+T cell differentiation
+T cell differentiation in thymus
+T cell differentiation involved in immune response
+T cell homeostasis
+T cell lineage commitment
+T cell mediated cytotoxicity
+T cell mediated immunity
+T cell migration
+T cell proliferation
+T cell receptor binding
+T cell receptor signaling pathway
+T cell receptor signaling pathway
+T cell selection
+T cell tolerance induction
+T-helper 1 cell cytokine production
+T-helper 1 cell differentiation
+T-helper 1 type immune response
+T-helper 17 cell differentiation
+T-helper 17 cell lineage commitment
+T-helper 17 type immune response
+T-helper 2 cell cytokine production
+T-helper 2 cell differentiation
+T-helper cell differentiation
+T-helper cell lineage commitment
+TAP binding
+TGF-beta receptor signaling activates SMADs
+TGF-beta signaling pathway
+TGFBR1 KD Mutants in Cancer
+TNF receptor superfamily (TNFSF) members mediating non-canonical NF-kB pathway
+TNF signaling pathway
+TNFR2 non-canonical NF-kB pathway
+TNFs bind their physiological receptors
+TP53 Regulates Transcription of Cell Death Genes
+TRAIL  signaling
+TRAIL binding
+Th1 and Th2 cell differentiation
+Th17 cell differentiation
+Thyroid cancer
+Toll Like Receptor 2 (TLR2) Cascade
+Toll Like Receptor 4 (TLR4) Cascade
+Toll Like Receptor TLR1:TLR2 Cascade
+Toll Like Receptor TLR6:TLR2 Cascade
+Toll-like Receptor Cascades
+Toll-like receptor binding
+Toll-like receptor signaling pathway
+Toxoplasmosis
+Transcriptional misregulation in cancer
+Transcriptional regulation by RUNX2
+Translocation of ZAP-70 to Immunological synapse
+Tuberculosis
+Type I diabetes mellitus
+Type I hemidesmosome assembly
+VEGF binds to VEGFR leading to receptor dimerization
+VEGF ligand-receptor interactions
+Viral carcinogenesis
+Viral myocarditis
+Viral protein interaction with cytokine and cytokine receptor
+Virion - Human immunodeficiency virus
+WNT ligand biogenesis and trafficking
+Wnt receptor activity
+Wnt signaling pathway
+Wnt signaling pathway
+"Wnt signaling pathway, planar cell polarity pathway"
+Wnt-protein binding
+Yersinia infection
+actin cytoskeleton organization
+actin filament bundle assembly
+actin filament bundle organization
+actin filament-based process
+actin-based cell projection
+activated T cell proliferation
+activation of immune response
+activation of innate immune response
+activation of protein kinase activity
+activin binding
+activin receptor activity
+"activin receptor activity, type I"
+activin receptor complex
+activin receptor signaling pathway
+actomyosin structure organization
+acute inflammatory response
+acute inflammatory response to antigenic stimulus
+acute-phase response
+adaptive immune response
+adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains
+adaptive thermogenesis
+adenylate cyclase regulator activity
+adenylate cyclase-activating G protein-coupled receptor signaling pathway
+adenylate cyclase-modulating G protein-coupled receptor signaling pathway
+adherens junction
+adhesion of symbiont to host
+adhesion of symbiont to host cell
+adrenal gland development
+alpha-beta T cell activation
+alpha-beta T cell activation involved in immune response
+alpha-beta T cell differentiation
+alpha-beta T cell differentiation involved in immune response
+alpha-beta T cell lineage commitment
+alpha-beta T cell proliferation
+ameboidal-type cell migration
+amide binding
+amide transport
+amyloid fibril formation
+amyloid-beta binding
+amyloid-beta clearance
+amyloid-beta metabolic process
+anatomical structure development
+anatomical structure formation involved in morphogenesis
+anatomical structure homeostasis
+anatomical structure maturation
+anatomical structure morphogenesis
+anchoring junction
+angiogenesis
+angiogenesis involved in coronary vascular morphogenesis
+angiogenesis involved in wound healing
+animal organ development
+animal organ formation
+animal organ morphogenesis
+animal organ regeneration
+anoikis
+anterior/posterior pattern specification
+antibacterial humoral response
+antigen binding
+antigen processing and presentation
+antigen processing and presentation of endogenous antigen
+antigen processing and presentation of endogenous peptide antigen
+antigen processing and presentation of exogenous antigen
+antigen processing and presentation of exogenous peptide antigen
+antigen processing and presentation of exogenous peptide antigen via MHC class II
+antigen processing and presentation of peptide antigen
+antigen processing and presentation of peptide antigen via MHC class I
+antigen processing and presentation of peptide antigen via MHC class II
+antigen processing and presentation of peptide or polysaccharide antigen via MHC class II
+antigen receptor-mediated signaling pathway
+antimicrobial humoral immune response mediated by antimicrobial peptide
+antimicrobial humoral response
+aorta development
+aorta morphogenesis
+aortic valve development
+aortic valve morphogenesis
+apical junction assembly
+apical part of cell
+apical plasma membrane
+apoptotic cell clearance
+apoptotic mitochondrial changes
+apoptotic process
+apoptotic process involved in morphogenesis
+apoptotic signaling pathway
+appendage development
+appendage morphogenesis
+artery development
+artery morphogenesis
+astrocyte activation
+astrocyte cell migration
+astrocyte development
+astrocyte differentiation
+atrial septum development
+atrioventricular valve development
+atrioventricular valve morphogenesis
+autocrine signaling
+autophagy
+axis elongation
+axis specification
+axon development
+axon ensheathment
+axon guidance
+axonogenesis
+azurophil granule
+azurophil granule lumen
+banded collagen fibril
+basal part of cell
+basal plasma membrane
+basement membrane
+basement membrane collagen trimer
+behavior
+bicellular tight junction assembly
+binding
+biological process involved in interaction with host
+biological process involved in interaction with symbiont
+biological process involved in interspecies interaction between organisms
+biological process involved in symbiotic interaction
+biological regulation
+biomineral tissue development
+blood circulation
+blood coagulation
+blood microparticle
+blood vessel development
+blood vessel diameter maintenance
+blood vessel endothelial cell migration
+blood vessel endothelial cell proliferation involved in sprouting angiogenesis
+blood vessel morphogenesis
+blood vessel remodeling
+body fluid secretion
+bone development
+bone growth
+bone mineralization
+bone morphogenesis
+bone remodeling
+bone resorption
+bounding membrane of organelle
+brain development
+branch elongation involved in mammary gland duct branching
+branch elongation of an epithelium
+branching involved in mammary gland duct morphogenesis
+branching involved in salivary gland morphogenesis
+branching involved in ureteric bud morphogenesis
+branching morphogenesis of an epithelial tube
+brown fat cell differentiation
+calcium ion binding
+calcium ion homeostasis
+calcium ion transmembrane import into cytosol
+calcium ion transmembrane transport
+calcium ion transport
+calcium-dependent protein binding
+calcium-mediated signaling
+camera-type eye development
+camera-type eye morphogenesis
+canonical NF-kappaB signal transduction
+canonical Wnt signaling pathway
+carbohydrate binding
+carbohydrate derivative binding
+carbohydrate homeostasis
+carboxylic acid binding
+cardiac atrium development
+cardiac atrium morphogenesis
+cardiac cell development
+cardiac chamber development
+cardiac chamber morphogenesis
+cardiac epithelial to mesenchymal transition
+cardiac muscle cell development
+cardiac muscle cell differentiation
+cardiac muscle cell proliferation
+cardiac muscle hypertrophy
+cardiac muscle tissue development
+cardiac muscle tissue growth
+cardiac muscle tissue morphogenesis
+cardiac septum development
+cardiac septum morphogenesis
+cardiac ventricle development
+cardiac ventricle morphogenesis
+cardiocyte differentiation
+cargo receptor activity
+cartilage development
+cartilage development involved in endochondral bone morphogenesis
+"catalytic activity, acting on a protein"
+caveola
+cell activation
+cell activation involved in immune response
+cell adhesion
+cell adhesion involved in heart morphogenesis
+cell adhesion mediated by integrin
+cell adhesion molecule binding
+cell body
+cell chemotaxis
+cell communication
+cell cycle
+cell death
+cell development
+cell differentiation
+cell differentiation involved in embryonic placenta development
+cell differentiation involved in kidney development
+cell differentiation involved in metanephros development
+cell fate commitment
+cell fate commitment involved in formation of primary germ layer
+cell fate specification
+cell growth
+cell junction
+cell junction assembly
+cell junction disassembly
+cell junction organization
+cell killing
+cell leading edge
+cell maturation
+cell migration
+cell migration involved in heart development
+cell migration involved in kidney development
+cell migration involved in metanephros development
+cell migration involved in sprouting angiogenesis
+cell morphogenesis
+cell morphogenesis involved in neuron differentiation
+cell motility
+cell periphery
+cell population proliferation
+cell projection membrane
+cell projection morphogenesis
+cell projection organization
+cell proliferation in midbrain
+cell proliferation involved in heart valve development
+cell proliferation involved in kidney development
+cell recognition
+cell surface
+cell surface pattern recognition receptor signaling pathway
+cell surface receptor protein serine/threonine kinase signaling pathway
+cell surface receptor protein tyrosine kinase signaling pathway
+cell surface receptor signaling pathway
+cell surface receptor signaling pathway via JAK-STAT
+cell surface receptor signaling pathway via STAT
+cell surface toll-like receptor signaling pathway
+cell-cell adhesion
+cell-cell adhesion via plasma-membrane adhesion molecules
+cell-cell fusion
+cell-cell junction
+cell-cell junction assembly
+cell-cell junction organization
+cell-cell signaling
+cell-matrix adhesion
+cell-substrate adhesion
+cell-substrate junction
+cell-substrate junction assembly
+cell-substrate junction organization
+cellular anatomical structure
+cellular component disassembly
+cellular component organization
+cellular component organization or biogenesis
+cellular defense response
+cellular developmental process
+cellular extravasation
+cellular homeostasis
+cellular localization
+cellular macromolecule localization
+cellular process
+cellular response to BMP stimulus
+cellular response to UV
+cellular response to abiotic stimulus
+cellular response to acid chemical
+cellular response to alcohol
+cellular response to amino acid stimulus
+cellular response to amyloid-beta
+cellular response to biotic stimulus
+cellular response to carbohydrate stimulus
+cellular response to chemical stimulus
+cellular response to chemical stress
+cellular response to chemokine
+cellular response to cytokine stimulus
+cellular response to decreased oxygen levels
+cellular response to dsRNA
+cellular response to endogenous stimulus
+cellular response to environmental stimulus
+cellular response to epidermal growth factor stimulus
+cellular response to erythropoietin
+cellular response to estradiol stimulus
+cellular response to exogenous dsRNA
+cellular response to external stimulus
+cellular response to fibroblast growth factor stimulus
+cellular response to glucose stimulus
+cellular response to growth factor stimulus
+cellular response to growth hormone stimulus
+cellular response to heat
+cellular response to hexose stimulus
+cellular response to hormone stimulus
+cellular response to hydrogen peroxide
+cellular response to hypoxia
+cellular response to insulin stimulus
+cellular response to interleukin-1
+cellular response to interleukin-12
+cellular response to interleukin-15
+cellular response to interleukin-17
+cellular response to interleukin-2
+cellular response to interleukin-4
+cellular response to interleukin-6
+cellular response to interleukin-9
+cellular response to ionizing radiation
+cellular response to ketone
+cellular response to lipid
+cellular response to lipopolysaccharide
+cellular response to lipoprotein particle stimulus
+cellular response to lipoteichoic acid
+cellular response to low-density lipoprotein particle stimulus
+cellular response to mechanical stimulus
+cellular response to molecule of bacterial origin
+cellular response to monosaccharide stimulus
+cellular response to nitrogen compound
+cellular response to nutrient
+cellular response to nutrient levels
+cellular response to organic cyclic compound
+cellular response to oxidative stress
+cellular response to oxygen levels
+cellular response to oxygen-containing compound
+cellular response to peptide hormone stimulus
+cellular response to platelet-derived growth factor stimulus
+cellular response to radiation
+cellular response to reactive oxygen species
+cellular response to retinoic acid
+cellular response to starvation
+cellular response to steroid hormone stimulus
+cellular response to stimulus
+cellular response to stress
+cellular response to transforming growth factor beta stimulus
+cellular response to tumor necrosis factor
+cellular response to type I interferon
+cellular response to type II interferon
+cellular response to type III interferon
+cellular response to vascular endothelial growth factor stimulus
+cellular response to virus
+cellular response to vitamin
+central nervous system development
+central nervous system vasculogenesis
+chemical homeostasis
+chemoattractant activity
+chemokine (C-X-C motif) ligand 2 production
+chemokine activity
+chemokine binding
+chemokine production
+chemokine receptor activity
+chemokine receptor binding
+chemokine-mediated signaling pathway
+chemotaxis
+chondrocyte development
+chondrocyte development involved in endochondral bone morphogenesis
+chondrocyte differentiation
+chordate embryonic development
+chromatin DNA binding
+chronic inflammatory response
+ciliary neurotrophic factor receptor activity
+ciliary neurotrophic factor receptor binding
+ciliary neurotrophic factor receptor complex
+ciliary neurotrophic factor-mediated signaling pathway
+circadian rhythm
+circulatory system development
+circulatory system process
+clathrin-coated endocytic vesicle
+clathrin-coated endocytic vesicle membrane
+clathrin-coated vesicle
+clathrin-coated vesicle membrane
+coagulation
+coated vesicle
+coated vesicle membrane
+cognition
+cold-induced thermogenesis
+collagen binding
+collagen biosynthetic process
+collagen catabolic process
+collagen fibril organization
+collagen metabolic process
+collagen trimer
+collagen type IX trimer
+collagen-activated signaling pathway
+collagen-activated tyrosine kinase receptor signaling pathway
+collagen-containing extracellular matrix
+columnar/cuboidal epithelial cell development
+columnar/cuboidal epithelial cell differentiation
+commissural neuron axon guidance
+complement activation
+complex of collagen trimers
+connective tissue development
+connective tissue replacement involved in inflammatory response wound healing
+contractile actin filament bundle assembly
+core promoter sequence-specific DNA binding
+coreceptor activity
+cranial skeletal system development
+cyclooxygenase pathway
+cytokine activity
+cytokine binding
+cytokine production
+cytokine production involved in immune response
+cytokine production involved in inflammatory response
+cytokine receptor activity
+cytokine receptor binding
+cytokine-mediated signaling pathway
+cytolytic granule
+cytoplasm
+cytoplasmic pattern recognition receptor signaling pathway
+cytoplasmic side of membrane
+cytoplasmic side of plasma membrane
+cytoplasmic vesicle
+cytoplasmic vesicle lumen
+cytoplasmic vesicle membrane
+cytoskeleton organization
+cytosol
+death receptor activity
+defense response
+defense response to Gram-negative bacterium
+defense response to Gram-positive bacterium
+defense response to bacterium
+defense response to fungus
+defense response to other organism
+defense response to protozoan
+defense response to symbiont
+defense response to virus
+dendritic cell antigen processing and presentation
+dendritic cell apoptotic process
+dendritic cell chemotaxis
+dendritic cell differentiation
+dendritic cell migration
+detection of bacterium
+detection of biotic stimulus
+detection of external biotic stimulus
+detection of other organism
+development of primary female sexual characteristics
+development of primary male sexual characteristics
+development of primary sexual characteristics
+developmental cell growth
+developmental growth
+developmental growth involved in morphogenesis
+developmental induction
+developmental maturation
+developmental process
+developmental process involved in reproduction
+digestive system development
+digestive system process
+digestive tract development
+digestive tract morphogenesis
+disordered domain specific binding
+disruption of anatomical structure in another organism
+disruption of cell in another organism
+dopaminergic neuron differentiation
+ear development
+early endosome
+ectopic germ cell programmed cell death
+embryo development
+embryo development ending in birth or egg hatching
+embryo implantation
+embryonic appendage morphogenesis
+embryonic cranial skeleton morphogenesis
+embryonic digestive tract development
+embryonic epithelial tube formation
+embryonic hemopoiesis
+embryonic hindlimb morphogenesis
+embryonic limb morphogenesis
+embryonic morphogenesis
+embryonic organ development
+embryonic organ morphogenesis
+embryonic placenta development
+embryonic placenta morphogenesis
+embryonic skeletal system development
+endocardial cushion development
+endocardial cushion formation
+endocardial cushion morphogenesis
+endocardium development
+endochondral bone growth
+endochondral bone morphogenesis
+endochondral ossification
+endocrine hormone secretion
+endocrine pancreas development
+endocrine process
+endocrine system development
+endocytic vesicle
+endocytic vesicle lumen
+endocytic vesicle membrane
+endocytosis
+endoderm development
+endoderm formation
+endodermal cell differentiation
+endomembrane system
+endoplasmic reticulum
+endoplasmic reticulum lumen
+endosome
+endosome lumen
+endosome membrane
+endothelial cell apoptotic process
+endothelial cell chemotaxis
+endothelial cell development
+endothelial cell differentiation
+endothelial cell migration
+endothelial cell proliferation
+endothelial tube morphogenesis
+endothelium development
+ensheathment of neurons
+entry of bacterium into host cell
+enzyme activator activity
+enzyme binding
+enzyme regulator activity
+enzyme-linked receptor protein signaling pathway
+eosinophil chemotaxis
+eosinophil migration
+ephrin receptor activity
+ephrin receptor binding
+ephrin receptor signaling pathway
+epiboly
+epiboly involved in wound healing
+epidermal cell differentiation
+epidermal growth factor receptor signaling pathway
+epidermis development
+epidermis morphogenesis
+epithelial cell apoptotic process
+epithelial cell development
+epithelial cell differentiation
+epithelial cell differentiation involved in kidney development
+epithelial cell migration
+epithelial cell proliferation
+epithelial to mesenchymal transition
+epithelial to mesenchymal transition involved in endocardial cushion formation
+epithelial tube branching involved in lung morphogenesis
+epithelial tube formation
+epithelial tube morphogenesis
+epithelium development
+epithelium migration
+erythrocyte differentiation
+erythrocyte homeostasis
+establishment of localization
+establishment of protein localization
+establishment of protein localization to extracellular region
+establishment or maintenance of cell polarity
+execution phase of apoptosis
+exocrine system development
+exogenous protein binding
+export from cell
+external encapsulating structure
+external encapsulating structure organization
+external side of plasma membrane
+extracellular exosome
+extracellular matrix
+extracellular matrix assembly
+extracellular matrix binding
+extracellular matrix constituent secretion
+extracellular matrix disassembly
+extracellular matrix organization
+extracellular matrix structural constituent
+extracellular matrix structural constituent conferring tensile strength
+extracellular membrane-bounded organelle
+extracellular organelle
+extracellular region
+extracellular space
+extracellular structure organization
+extracellular vesicle
+extrinsic apoptotic signaling pathway
+extrinsic apoptotic signaling pathway in absence of ligand
+extrinsic apoptotic signaling pathway via death domain receptors
+eye development
+eye morphogenesis
+fat cell differentiation
+fatty acid binding
+fatty acid transport
+female genitalia development
+female gonad development
+female pregnancy
+female sex differentiation
+fever generation
+fibrillar collagen trimer
+fibroblast growth factor receptor signaling pathway
+fibroblast proliferation
+fibronectin binding
+ficolin-1-rich granule
+ficolin-1-rich granule membrane
+foam cell differentiation
+focal adhesion
+focal adhesion assembly
+follicle-stimulating hormone secretion
+forebrain development
+formation of primary germ layer
+frizzled binding
+gamma-delta T cell activation
+gastrulation
+gene expression
+generation of neurons
+genitalia development
+gland development
+gland morphogenesis
+glandular epithelial cell development
+glandular epithelial cell differentiation
+glial cell activation
+glial cell apoptotic process
+glial cell development
+glial cell differentiation
+glial cell migration
+glial cell proliferation
+gliogenesis
+glomerular capillary formation
+glomerular mesangial cell proliferation
+glomerular mesangium development
+glomerulus development
+glomerulus morphogenesis
+glomerulus vasculature development
+glomerulus vasculature morphogenesis
+glucose homeostasis
+glucose metabolic process
+glycosaminoglycan binding
+gonad development
+granulocyte activation
+granulocyte chemotaxis
+granulocyte macrophage colony-stimulating factor production
+granulocyte macrophage colony-stimulating factor receptor complex
+granulocyte migration
+granulocyte-macrophage colony-stimulating factor signaling pathway
+granzyme-mediated programmed cell death signaling pathway
+growth
+growth factor activity
+growth factor binding
+growth factor complex
+growth factor receptor binding
+growth hormone receptor signaling pathway
+growth hormone receptor signaling pathway via JAK-STAT
+growth plate cartilage chondrocyte development
+growth plate cartilage development
+hair cycle
+hair cycle process
+hair follicle development
+hair follicle morphogenesis
+head development
+heart development
+heart formation
+heart growth
+heart morphogenesis
+heart process
+heart trabecula morphogenesis
+heart valve development
+heart valve morphogenesis
+hematopoietic or lymphoid organ development
+hematopoietic progenitor cell differentiation
+hematopoietic stem cell proliferation
+hemopoiesis
+hemostasis
+heparin binding
+hepaticobiliary system development
+hepatocyte apoptotic process
+heterotypic cell-cell adhesion
+hindbrain development
+hindlimb morphogenesis
+homeostasis of number of cells
+homeostasis of number of cells within a tissue
+homeostatic process
+homotypic cell-cell adhesion
+hormone activity
+hormone binding
+hormone receptor binding
+hormone secretion
+hormone transport
+hormone-mediated signaling pathway
+humoral immune response
+humoral immune response mediated by circulating immunoglobulin
+"hydrolase activity, hydrolyzing N-glycosyl compounds"
+icosanoid biosynthetic process
+icosanoid metabolic process
+icosanoid secretion
+identical protein binding
+immature T cell proliferation
+immature T cell proliferation in thymus
+immune effector process
+immune receptor activity
+immune response
+immune response to tumor cell
+immune response-activating cell surface receptor signaling pathway
+immune response-activating signaling pathway
+immune response-regulating cell surface receptor signaling pathway
+immune response-regulating cell surface receptor signaling pathway involved in phagocytosis
+immune response-regulating signaling pathway
+immune system development
+immune system process
+"immunoglobulin complex, circulating"
+immunoglobulin mediated immune response
+immunoglobulin production
+immunoglobulin production involved in immunoglobulin-mediated immune response
+immunoglobulin receptor binding
+immunological memory formation process
+immunological memory process
+immunological synapse
+immunological synapse formation
+import into cell
+import into nucleus
+in utero embryonic development
+induction of positive chemotaxis
+inflammatory cell apoptotic process
+inflammatory response
+inflammatory response to antigenic stimulus
+inflammatory response to wounding
+innate immune response
+innate immune response activating cell surface receptor signaling pathway
+innate immune response-activating signaling pathway
+inner ear development
+inorganic ion homeostasis
+insulin secretion
+insulin-like growth factor I binding
+insulin-like growth factor II binding
+insulin-like growth factor binding
+insulin-like growth factor binding protein complex
+insulin-like growth factor receptor signaling pathway
+integrin alpha2-beta1 complex
+integrin binding
+integrin complex
+integrin-mediated signaling pathway
+interferon receptor activity
+interferon-alpha production
+interferon-beta production
+interferon-mediated signaling pathway
+interleukin-1 beta production
+interleukin-1 production
+interleukin-1 receptor activity
+interleukin-10 production
+interleukin-11-mediated signaling pathway
+interleukin-12 production
+interleukin-12 receptor binding
+interleukin-12 receptor complex
+interleukin-12-mediated signaling pathway
+interleukin-13 production
+interleukin-15-mediated signaling pathway
+interleukin-17 production
+interleukin-17 receptor activity
+interleukin-2 production
+interleukin-2-mediated signaling pathway
+interleukin-23 production
+interleukin-27-mediated signaling pathway
+interleukin-3-mediated signaling pathway
+interleukin-4 production
+interleukin-5 production
+interleukin-6 production
+interleukin-6 receptor complex
+interleukin-6-mediated signaling pathway
+interleukin-8 production
+interleukin-9-mediated signaling pathway
+intermediate filament
+intermediate filament cytoskeleton
+intermediate filament cytoskeleton organization
+intermediate filament organization
+intermediate filament-based process
+intestinal epithelial cell differentiation
+intracellular calcium ion homeostasis
+intracellular chemical homeostasis
+intracellular glucose homeostasis
+intracellular monoatomic cation homeostasis
+intracellular monoatomic ion homeostasis
+intracellular organelle lumen
+intracellular receptor signaling pathway
+intracellular signal transduction
+intracellular signaling cassette
+intracellular vesicle
+intrinsic apoptotic signaling pathway
+intrinsic apoptotic signaling pathway in response to DNA damage
+intrinsic apoptotic signaling pathway in response to oxidative stress
+isotype switching
+isotype switching to IgG isotypes
+keratin filament
+keratinocyte differentiation
+ketone metabolic process
+kidney development
+kidney epithelium development
+kidney morphogenesis
+kidney vasculature development
+kidney vasculature morphogenesis
+killing of cells of another organism
+kinase activator activity
+kinase activity
+kinase binding
+kinase regulator activity
+labyrinthine layer development
+laminin binding
+late endosome
+lateral sprouting from an epithelium
+leading edge membrane
+learning or memory
+lens development in camera-type eye
+lens fiber cell differentiation
+leukocyte activation
+leukocyte activation involved in immune response
+leukocyte activation involved in inflammatory response
+leukocyte adhesion to vascular endothelial cell
+leukocyte aggregation
+leukocyte apoptotic process
+leukocyte cell-cell adhesion
+leukocyte chemotaxis
+leukocyte degranulation
+leukocyte differentiation
+leukocyte homeostasis
+leukocyte mediated cytotoxicity
+leukocyte mediated immunity
+leukocyte migration
+leukocyte proliferation
+leukocyte tethering or rolling
+ligand-activated transcription factor activity
+limb development
+limb morphogenesis
+lipase activator activity
+lipid binding
+lipid export from cell
+lipid localization
+lipid storage
+lipid transport
+lipopolysaccharide-mediated signaling pathway
+liver development
+liver regeneration
+localization
+locomotion
+long-chain fatty acid binding
+lumenal side of endoplasmic reticulum membrane
+lumenal side of membrane
+lung alveolus development
+lung development
+lung epithelium development
+lung morphogenesis
+lung vasculature development
+lung-associated mesenchyme development
+luteinization
+lymph node development
+lymph vessel development
+lymph vessel morphogenesis
+lymphocyte activation
+lymphocyte activation involved in immune response
+lymphocyte apoptotic process
+lymphocyte chemotaxis
+lymphocyte costimulation
+lymphocyte differentiation
+lymphocyte homeostasis
+lymphocyte mediated immunity
+lymphocyte migration
+lymphocyte proliferation
+lysosome
+lysosome localization
+lytic vacuole
+mRNA transcription
+macromolecule localization
+macromolecule modification
+macrophage activation
+macrophage activation involved in immune response
+macrophage chemotaxis
+macrophage cytokine production
+macrophage derived foam cell differentiation
+macrophage differentiation
+macrophage migration
+macrophage proliferation
+maintenance of cell number
+maintenance of location
+maintenance of location in cell
+male gonad development
+male sex differentiation
+mammary gland alveolus development
+mammary gland development
+mammary gland duct morphogenesis
+mammary gland epithelial cell proliferation
+mammary gland epithelium development
+mammary gland lobule development
+mammary gland morphogenesis
+mast cell activation
+mast cell activation involved in immune response
+mast cell chemotaxis
+mast cell degranulation
+mast cell mediated immunity
+mast cell migration
+mast cell proliferation
+maternal placenta development
+maternal process involved in female pregnancy
+mature B cell differentiation
+mature B cell differentiation involved in immune response
+membrane
+membrane microdomain
+membrane protein complex
+membrane raft
+membrane-enclosed lumen
+membranous septum morphogenesis
+memory T cell differentiation
+mesenchymal cell differentiation
+mesenchymal cell proliferation
+mesenchymal to epithelial transition
+mesenchymal-epithelial cell signaling
+mesenchyme development
+mesenchyme morphogenesis
+mesoderm development
+mesoderm formation
+mesoderm morphogenesis
+mesodermal cell differentiation
+mesonephric epithelium development
+mesonephric tubule development
+mesonephric tubule morphogenesis
+mesonephros development
+metal ion transport
+metanephric mesenchymal cell migration
+metanephric nephron development
+metanephros development
+metanephros morphogenesis
+miRNA metabolic process
+miRNA transcription
+microglial cell activation
+microglial cell migration
+microglial cell proliferation
+midbrain development
+mitotic cell cycle
+mitotic cell cycle process
+mitral valve development
+mitral valve morphogenesis
+modulation by symbiont of entry into host
+modulation of process of another organism
+molecular function activator activity
+molecular function inhibitor activity
+molecular function regulator activity
+molecular transducer activity
+molting cycle
+molting cycle process
+monoatomic cation homeostasis
+monoatomic ion homeostasis
+monocarboxylic acid binding
+monocarboxylic acid transport
+monocyte chemotactic protein-1 production
+monocyte chemotaxis
+monocyte differentiation
+mononuclear cell differentiation
+mononuclear cell migration
+mononuclear cell proliferation
+morphogenesis of a branching epithelium
+morphogenesis of a branching structure
+morphogenesis of an endothelium
+morphogenesis of an epithelial bud
+morphogenesis of an epithelial fold
+morphogenesis of an epithelial sheet
+morphogenesis of an epithelium
+morphogenesis of embryonic epithelium
+multi-multicellular organism process
+multi-organism reproductive process
+multicellular organism development
+multicellular organism growth
+multicellular organismal process
+multicellular organismal reproductive process
+multicellular organismal-level homeostasis
+muscle adaptation
+muscle cell apoptotic process
+muscle cell development
+muscle cell differentiation
+muscle cell migration
+muscle cell proliferation
+muscle hypertrophy
+muscle organ development
+muscle organ morphogenesis
+muscle structure development
+muscle system process
+muscle tissue development
+muscle tissue morphogenesis
+myelination
+myeloid cell activation involved in immune response
+myeloid cell apoptotic process
+myeloid cell differentiation
+myeloid cell homeostasis
+myeloid dendritic cell activation
+myeloid dendritic cell differentiation
+myeloid leukocyte activation
+myeloid leukocyte cytokine production
+myeloid leukocyte differentiation
+myeloid leukocyte mediated immunity
+myeloid leukocyte migration
+myoblast differentiation
+myoblast fusion
+myoblast proliferation
+myotube differentiation
+natural killer cell activation
+natural killer cell chemotaxis
+natural killer cell differentiation
+natural killer cell mediated cytotoxicity
+natural killer cell mediated cytotoxicity directed against tumor cell target
+natural killer cell mediated immune response to tumor cell
+natural killer cell mediated immunity
+natural killer cell proliferation
+necroptotic process
+negative T cell selection
+negative regulation of B cell activation
+negative regulation of B cell proliferation
+"negative regulation of CD4-positive, alpha-beta T cell activation"
+negative regulation of DNA-binding transcription factor activity
+negative regulation of DNA-templated transcription
+negative regulation of ERK1 and ERK2 cascade
+negative regulation of MAPK cascade
+negative regulation of RNA biosynthetic process
+negative regulation of RNA metabolic process
+negative regulation of T cell activation
+negative regulation of T cell apoptotic process
+negative regulation of T cell differentiation
+negative regulation of T cell mediated immunity
+negative regulation of T cell proliferation
+negative regulation of T-helper 1 type immune response
+negative regulation of activated T cell proliferation
+negative regulation of adaptive immune response
+negative regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains
+negative regulation of alpha-beta T cell activation
+negative regulation of angiogenesis
+negative regulation of anoikis
+negative regulation of apoptotic process
+negative regulation of apoptotic signaling pathway
+negative regulation of biological process
+negative regulation of biosynthetic process
+negative regulation of blood vessel endothelial cell migration
+negative regulation of blood vessel morphogenesis
+negative regulation of cardiac muscle cell differentiation
+negative regulation of cardiac muscle hypertrophy
+negative regulation of cardiocyte differentiation
+negative regulation of cartilage development
+negative regulation of catalytic activity
+negative regulation of cell activation
+negative regulation of cell adhesion
+negative regulation of cell communication
+negative regulation of cell cycle
+negative regulation of cell development
+negative regulation of cell differentiation
+negative regulation of cell growth
+negative regulation of cell junction assembly
+negative regulation of cell killing
+negative regulation of cell migration
+negative regulation of cell motility
+negative regulation of cell population proliferation
+negative regulation of cell-cell adhesion
+negative regulation of cell-substrate adhesion
+negative regulation of cellular component organization
+negative regulation of cellular process
+negative regulation of cellular response to growth factor stimulus
+negative regulation of chemokine production
+negative regulation of chemotaxis
+negative regulation of chondrocyte differentiation
+negative regulation of coagulation
+negative regulation of cold-induced thermogenesis
+negative regulation of collagen biosynthetic process
+negative regulation of collagen metabolic process
+negative regulation of cytokine production
+negative regulation of cytokine production involved in immune response
+negative regulation of cytokine-mediated signaling pathway
+negative regulation of defense response
+negative regulation of dendritic cell apoptotic process
+negative regulation of developmental process
+negative regulation of endocytosis
+negative regulation of endothelial cell apoptotic process
+negative regulation of endothelial cell migration
+negative regulation of endothelial cell proliferation
+negative regulation of epithelial cell differentiation
+negative regulation of epithelial cell proliferation
+negative regulation of execution phase of apoptosis
+negative regulation of extracellular matrix organization
+negative regulation of extrinsic apoptotic signaling pathway
+negative regulation of extrinsic apoptotic signaling pathway in absence of ligand
+negative regulation of extrinsic apoptotic signaling pathway via death domain receptors
+negative regulation of fat cell differentiation
+negative regulation of fibroblast growth factor receptor signaling pathway
+negative regulation of gene expression
+negative regulation of growth
+negative regulation of hemopoiesis
+negative regulation of hormone secretion
+negative regulation of immune effector process
+negative regulation of immune response
+negative regulation of immune response to tumor cell
+negative regulation of immune system process
+negative regulation of inflammatory response
+negative regulation of inflammatory response to antigenic stimulus
+negative regulation of innate immune response
+negative regulation of interleukin-1 production
+negative regulation of interleukin-10 production
+negative regulation of interleukin-12 production
+negative regulation of interleukin-17 production
+negative regulation of interleukin-2 production
+negative regulation of interleukin-6 production
+negative regulation of intracellular signal transduction
+negative regulation of intrinsic apoptotic signaling pathway
+negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage
+negative regulation of kinase activity
+negative regulation of leukocyte activation
+negative regulation of leukocyte apoptotic process
+negative regulation of leukocyte cell-cell adhesion
+negative regulation of leukocyte chemotaxis
+negative regulation of leukocyte degranulation
+negative regulation of leukocyte differentiation
+negative regulation of leukocyte mediated cytotoxicity
+negative regulation of leukocyte mediated immunity
+negative regulation of leukocyte migration
+negative regulation of leukocyte proliferation
+negative regulation of lipid localization
+negative regulation of lipid metabolic process
+negative regulation of lipid storage
+negative regulation of lipid transport
+negative regulation of locomotion
+negative regulation of lymphocyte activation
+negative regulation of lymphocyte apoptotic process
+negative regulation of lymphocyte differentiation
+negative regulation of lymphocyte mediated immunity
+negative regulation of lymphocyte proliferation
+negative regulation of macromolecule biosynthetic process
+negative regulation of macromolecule metabolic process
+negative regulation of macrophage cytokine production
+negative regulation of macrophage derived foam cell differentiation
+negative regulation of metabolic process
+negative regulation of miRNA metabolic process
+negative regulation of miRNA transcription
+negative regulation of mitotic cell cycle
+negative regulation of molecular function
+negative regulation of mononuclear cell migration
+negative regulation of mononuclear cell proliferation
+negative regulation of morphogenesis of an epithelium
+negative regulation of multicellular organismal process
+negative regulation of muscle cell differentiation
+negative regulation of muscle hypertrophy
+negative regulation of myeloid cell apoptotic process
+negative regulation of myeloid cell differentiation
+negative regulation of myeloid leukocyte differentiation
+negative regulation of myeloid leukocyte mediated immunity
+negative regulation of myoblast differentiation
+negative regulation of natural killer cell mediated cytotoxicity
+negative regulation of natural killer cell mediated immunity
+negative regulation of nervous system development
+negative regulation of neurogenesis
+negative regulation of neuroinflammatory response
+negative regulation of neuron apoptotic process
+negative regulation of nucleobase-containing compound metabolic process
+negative regulation of osteoblast differentiation
+negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway
+negative regulation of phosphate metabolic process
+negative regulation of phosphorus metabolic process
+negative regulation of phosphorylation
+negative regulation of production of molecular mediator of immune response
+negative regulation of programmed cell death
+negative regulation of protein kinase activity
+negative regulation of protein metabolic process
+negative regulation of protein modification process
+negative regulation of protein phosphorylation
+negative regulation of reactive oxygen species metabolic process
+negative regulation of release of cytochrome c from mitochondria
+negative regulation of reproductive process
+negative regulation of response to biotic stimulus
+negative regulation of response to cytokine stimulus
+negative regulation of response to external stimulus
+negative regulation of response to stimulus
+negative regulation of response to tumor cell
+negative regulation of response to wounding
+negative regulation of secretion
+negative regulation of secretion by cell
+negative regulation of sequestering of calcium ion
+negative regulation of signal transduction
+negative regulation of signal transduction in absence of ligand
+negative regulation of signaling
+negative regulation of small molecule metabolic process
+negative regulation of smooth muscle cell proliferation
+negative regulation of stem cell proliferation
+negative regulation of striated muscle cell differentiation
+negative regulation of transcription by RNA polymerase II
+negative regulation of transmembrane receptor protein serine/threonine kinase signaling pathway
+negative regulation of transport
+negative regulation of tumor necrosis factor production
+negative regulation of tumor necrosis factor superfamily cytokine production
+negative regulation of type 2 immune response
+negative regulation of type II interferon production
+negative regulation of vascular associated smooth muscle cell proliferation
+negative regulation of vasculature development
+negative regulation of viral genome replication
+negative regulation of viral process
+negative regulation of wound healing
+negative thymic T cell selection
+nephric duct development
+nephric duct morphogenesis
+nephron development
+nephron epithelium development
+nephron epithelium morphogenesis
+nephron morphogenesis
+nephron tubule development
+nephron tubule morphogenesis
+nervous system development
+neural crest cell development
+neural crest cell differentiation
+neural precursor cell proliferation
+neuregulin binding
+neuroblast proliferation
+neuroepithelial cell differentiation
+neurogenesis
+neuroinflammatory response
+neuron apoptotic process
+neuron development
+neuron differentiation
+neuron migration
+neuron projection development
+neuron projection guidance
+neuron projection morphogenesis
+neuronal cell body
+neutrophil activation
+neutrophil chemotaxis
+neutrophil homeostasis
+neutrophil mediated immunity
+neutrophil migration
+nitric oxide biosynthetic process
+nitric oxide metabolic process
+nitric-oxide synthase biosynthetic process
+nitric-oxide synthase regulator activity
+nitrogen compound transport
+non-canonical NF-kappaB signal transduction
+non-canonical Wnt signaling pathway
+non-membrane spanning protein tyrosine kinase activity
+notochord development
+nuclear receptor activity
+nuclear receptor-mediated signaling pathway
+nuclear steroid receptor activity
+nuclear transport
+nucleocytoplasmic transport
+odontogenesis
+odontogenesis of dentin-containing tooth
+oligodendrocyte differentiation
+oncostatin-M-mediated signaling pathway
+organ growth
+organ induction
+organ or tissue specific immune response
+organelle lumen
+organic acid binding
+ossification
+osteoblast differentiation
+osteoblast proliferation
+osteoclast differentiation
+outflow tract morphogenesis
+ovarian follicle development
+ovulation cycle
+ovulation cycle process
+p38MAPK cascade
+p53 signaling pathway
+pancreas development
+pattern recognition receptor activity
+pattern recognition receptor signaling pathway
+pattern specification process
+peptide antigen assembly with MHC class II protein complex
+peptide antigen assembly with MHC protein complex
+peptide antigen binding
+peptide binding
+peptide hormone binding
+peptide hormone secretion
+peptide secretion
+peptide transport
+peptidyl-amino acid modification
+peptidyl-serine modification
+peptidyl-serine phosphorylation
+peptidyl-tyrosine autophosphorylation
+peptidyl-tyrosine modification
+peptidyl-tyrosine phosphorylation
+pericardium development
+pericyte cell differentiation
+perinuclear region of cytoplasm
+phagocytic vesicle
+phagocytic vesicle membrane
+phagocytosis
+"phagocytosis, engulfment"
+pharyngeal system development
+phosphatase binding
+phosphate-containing compound metabolic process
+phosphatidylinositol 3-kinase/protein kinase B signal transduction
+phospholipase activator activity
+phosphorus metabolic process
+phosphorylation
+"phosphotransferase activity, alcohol group as acceptor"
+placenta development
+plasma cell differentiation
+plasma membrane
+plasma membrane bounded cell projection morphogenesis
+plasma membrane bounded cell projection organization
+plasma membrane invagination
+plasma membrane protein complex
+plasma membrane raft
+plasma membrane region
+plasma membrane signaling receptor complex
+platelet activation
+platelet aggregation
+platelet alpha granule
+platelet alpha granule lumen
+platelet-derived growth factor binding
+platelet-derived growth factor receptor binding
+platelet-derived growth factor receptor signaling pathway
+positive T cell selection
+positive chemotaxis
+positive regulation of B cell activation
+positive regulation of B cell differentiation
+positive regulation of B cell mediated immunity
+positive regulation of B cell proliferation
+"positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation"
+"positive regulation of CD4-positive, alpha-beta T cell activation"
+"positive regulation of CD4-positive, alpha-beta T cell differentiation"
+"positive regulation of CD4-positive, alpha-beta T cell proliferation"
+positive regulation of DNA binding
+positive regulation of DNA biosynthetic process
+positive regulation of DNA metabolic process
+positive regulation of DNA-binding transcription factor activity
+positive regulation of DNA-templated transcription
+positive regulation of ERK1 and ERK2 cascade
+positive regulation of JNK cascade
+positive regulation of MAP kinase activity
+positive regulation of MAPK cascade
+positive regulation of MHC class II biosynthetic process
+positive regulation of NF-kappaB transcription factor activity
+positive regulation of NK T cell activation
+positive regulation of NK T cell proliferation
+positive regulation of NMDA glutamate receptor activity
+positive regulation of RNA biosynthetic process
+positive regulation of RNA metabolic process
+positive regulation of SMAD protein signal transduction
+positive regulation of T cell activation
+positive regulation of T cell apoptotic process
+positive regulation of T cell chemotaxis
+positive regulation of T cell cytokine production
+positive regulation of T cell differentiation
+positive regulation of T cell mediated cytotoxicity
+positive regulation of T cell mediated immunity
+positive regulation of T cell migration
+positive regulation of T cell proliferation
+positive regulation of T-helper 1 cell cytokine production
+positive regulation of T-helper 1 type immune response
+positive regulation of T-helper 17 type immune response
+positive regulation of T-helper 2 cell cytokine production
+positive regulation of T-helper 2 cell differentiation
+positive regulation of T-helper cell differentiation
+positive regulation of Wnt signaling pathway
+positive regulation of actin filament bundle assembly
+positive regulation of activated T cell proliferation
+positive regulation of acute inflammatory response
+positive regulation of adaptive immune response
+positive regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains
+positive regulation of alpha-beta T cell activation
+positive regulation of alpha-beta T cell differentiation
+positive regulation of alpha-beta T cell proliferation
+positive regulation of amide metabolic process
+positive regulation of amyloid precursor protein catabolic process
+positive regulation of amyloid-beta formation
+positive regulation of angiogenesis
+positive regulation of animal organ morphogenesis
+positive regulation of apoptotic process
+positive regulation of apoptotic signaling pathway
+positive regulation of binding
+positive regulation of biological process
+positive regulation of biomineral tissue development
+positive regulation of biosynthetic process
+positive regulation of blood vessel endothelial cell migration
+positive regulation of bone mineralization
+positive regulation of calcium ion import
+positive regulation of calcium ion transmembrane transport
+positive regulation of calcium ion transport
+positive regulation of calcium-mediated signaling
+positive regulation of canonical NF-kappaB signal transduction
+positive regulation of canonical Wnt signaling pathway
+positive regulation of carbohydrate metabolic process
+positive regulation of cardiac epithelial to mesenchymal transition
+positive regulation of cardiac muscle cell proliferation
+positive regulation of cardiac muscle tissue growth
+positive regulation of cartilage development
+positive regulation of catalytic activity
+positive regulation of cation transmembrane transport
+positive regulation of cell activation
+positive regulation of cell adhesion
+positive regulation of cell communication
+positive regulation of cell cycle
+positive regulation of cell cycle process
+positive regulation of cell development
+positive regulation of cell differentiation
+positive regulation of cell division
+positive regulation of cell growth
+positive regulation of cell junction assembly
+positive regulation of cell killing
+positive regulation of cell migration
+positive regulation of cell motility
+positive regulation of cell population proliferation
+positive regulation of cell projection organization
+positive regulation of cell proliferation involved in kidney development
+positive regulation of cell-cell adhesion
+positive regulation of cell-matrix adhesion
+positive regulation of cell-substrate adhesion
+positive regulation of cellular component biogenesis
+positive regulation of cellular component organization
+positive regulation of cellular process
+positive regulation of chemokine production
+positive regulation of chemotaxis
+positive regulation of cholesterol efflux
+positive regulation of cholesterol transport
+positive regulation of cold-induced thermogenesis
+positive regulation of collagen biosynthetic process
+positive regulation of collagen metabolic process
+positive regulation of cytokine production
+positive regulation of cytokine production involved in immune response
+positive regulation of cytokine production involved in inflammatory response
+positive regulation of cytokine-mediated signaling pathway
+positive regulation of cytoskeleton organization
+positive regulation of cytosolic calcium ion concentration
+positive regulation of defense response
+positive regulation of dendritic cell antigen processing and presentation
+positive regulation of dendritic cell chemotaxis
+positive regulation of developmental growth
+positive regulation of developmental process
+positive regulation of endocytosis
+positive regulation of endothelial cell apoptotic process
+positive regulation of endothelial cell chemotaxis
+positive regulation of endothelial cell differentiation
+positive regulation of endothelial cell migration
+positive regulation of endothelial cell proliferation
+positive regulation of epithelial cell differentiation
+positive regulation of epithelial cell migration
+positive regulation of epithelial cell proliferation
+positive regulation of epithelial to mesenchymal transition
+positive regulation of epithelial to mesenchymal transition involved in endocardial cushion formation
+positive regulation of epithelial tube formation
+positive regulation of erythrocyte differentiation
+positive regulation of establishment of protein localization
+positive regulation of extracellular matrix assembly
+positive regulation of extracellular matrix organization
+positive regulation of extrinsic apoptotic signaling pathway
+positive regulation of fat cell differentiation
+positive regulation of fatty acid metabolic process
+positive regulation of fibroblast migration
+positive regulation of fibroblast proliferation
+positive regulation of focal adhesion assembly
+positive regulation of follicle-stimulating hormone secretion
+positive regulation of gamma-delta T cell activation
+positive regulation of gene expression
+positive regulation of glial cell differentiation
+positive regulation of glial cell migration
+positive regulation of glial cell proliferation
+positive regulation of gliogenesis
+positive regulation of glycoprotein biosynthetic process
+positive regulation of glycoprotein metabolic process
+positive regulation of gonadotropin secretion
+positive regulation of granulocyte chemotaxis
+positive regulation of granulocyte macrophage colony-stimulating factor production
+positive regulation of growth
+positive regulation of heart growth
+positive regulation of hemopoiesis
+positive regulation of heterotypic cell-cell adhesion
+positive regulation of hormone secretion
+positive regulation of hydrolase activity
+positive regulation of immune effector process
+positive regulation of immune response
+positive regulation of immune system process
+positive regulation of immunoglobulin mediated immune response
+positive regulation of immunoglobulin production
+positive regulation of inflammatory response
+positive regulation of inflammatory response to antigenic stimulus
+positive regulation of innate immune response
+positive regulation of interferon-alpha production
+positive regulation of interferon-beta production
+positive regulation of interleukin-1 beta production
+positive regulation of interleukin-1 production
+positive regulation of interleukin-10 production
+positive regulation of interleukin-12 production
+positive regulation of interleukin-13 production
+positive regulation of interleukin-17 production
+positive regulation of interleukin-2 production
+positive regulation of interleukin-23 production
+positive regulation of interleukin-4 production
+positive regulation of interleukin-5 production
+positive regulation of interleukin-6 production
+positive regulation of interleukin-8 production
+positive regulation of intracellular protein transport
+positive regulation of intracellular signal transduction
+positive regulation of intracellular transport
+positive regulation of intrinsic apoptotic signaling pathway
+positive regulation of isotype switching
+positive regulation of killing of cells of another organism
+positive regulation of kinase activity
+positive regulation of leukocyte activation
+positive regulation of leukocyte apoptotic process
+positive regulation of leukocyte cell-cell adhesion
+positive regulation of leukocyte chemotaxis
+positive regulation of leukocyte differentiation
+positive regulation of leukocyte mediated cytotoxicity
+positive regulation of leukocyte mediated immunity
+positive regulation of leukocyte migration
+positive regulation of leukocyte proliferation
+positive regulation of lipid biosynthetic process
+positive regulation of lipid localization
+positive regulation of lipid metabolic process
+positive regulation of lipid transport
+positive regulation of locomotion
+positive regulation of lymphocyte activation
+positive regulation of lymphocyte apoptotic process
+positive regulation of lymphocyte chemotaxis
+positive regulation of lymphocyte differentiation
+positive regulation of lymphocyte mediated immunity
+positive regulation of lymphocyte migration
+positive regulation of lymphocyte proliferation
+positive regulation of macromolecule biosynthetic process
+positive regulation of macromolecule metabolic process
+positive regulation of macrophage activation
+positive regulation of macrophage chemotaxis
+positive regulation of macrophage derived foam cell differentiation
+positive regulation of macrophage differentiation
+positive regulation of macrophage migration
+positive regulation of mast cell chemotaxis
+positive regulation of mast cell proliferation
+positive regulation of memory T cell differentiation
+positive regulation of mesenchymal cell proliferation
+positive regulation of metabolic process
+positive regulation of miRNA metabolic process
+positive regulation of miRNA transcription
+positive regulation of microglial cell migration
+positive regulation of mitotic nuclear division
+positive regulation of molecular function
+positive regulation of monoatomic ion transmembrane transport
+positive regulation of monoatomic ion transport
+positive regulation of monocyte chemotactic protein-1 production
+positive regulation of monocyte chemotaxis
+positive regulation of monocyte differentiation
+positive regulation of mononuclear cell migration
+positive regulation of mononuclear cell proliferation
+positive regulation of monooxygenase activity
+positive regulation of morphogenesis of an epithelium
+positive regulation of multicellular organismal process
+positive regulation of muscle cell differentiation
+positive regulation of myeloid cell differentiation
+positive regulation of myeloid leukocyte cytokine production involved in immune response
+positive regulation of myeloid leukocyte differentiation
+positive regulation of myoblast fusion
+positive regulation of natural killer cell activation
+positive regulation of natural killer cell chemotaxis
+positive regulation of natural killer cell differentiation
+positive regulation of natural killer cell proliferation
+positive regulation of nervous system development
+positive regulation of neural precursor cell proliferation
+positive regulation of neuroblast proliferation
+positive regulation of neurogenesis
+positive regulation of neuroinflammatory response
+positive regulation of neuron apoptotic process
+positive regulation of neuron projection development
+positive regulation of neutrophil chemotaxis
+positive regulation of neutrophil migration
+positive regulation of nitric oxide biosynthetic process
+positive regulation of nitric oxide metabolic process
+positive regulation of nitric-oxide synthase biosynthetic process
+positive regulation of non-canonical NF-kappaB signal transduction
+positive regulation of nuclear division
+positive regulation of nucleobase-containing compound metabolic process
+positive regulation of nucleocytoplasmic transport
+positive regulation of odontogenesis
+positive regulation of organ growth
+positive regulation of organelle organization
+positive regulation of ossification
+positive regulation of osteoblast differentiation
+positive regulation of osteoclast differentiation
+positive regulation of oxidoreductase activity
+positive regulation of peptide secretion
+positive regulation of peptidyl-serine phosphorylation
+positive regulation of peptidyl-threonine phosphorylation
+positive regulation of peptidyl-tyrosine phosphorylation
+positive regulation of phagocytosis
+positive regulation of phosphate metabolic process
+positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction
+positive regulation of phosphorus metabolic process
+positive regulation of phosphorylation
+positive regulation of positive chemotaxis
+positive regulation of production of molecular mediator of immune response
+positive regulation of programmed cell death
+positive regulation of protein autophosphorylation
+positive regulation of protein import into nucleus
+positive regulation of protein kinase A signaling
+positive regulation of protein kinase C signaling
+positive regulation of protein kinase activity
+positive regulation of protein localization
+positive regulation of protein localization to cell periphery
+positive regulation of protein localization to membrane
+positive regulation of protein localization to nucleus
+positive regulation of protein localization to plasma membrane
+positive regulation of protein metabolic process
+positive regulation of protein modification process
+positive regulation of protein phosphorylation
+positive regulation of protein secretion
+positive regulation of protein serine/threonine kinase activity
+positive regulation of protein transport
+positive regulation of protein-containing complex assembly
+positive regulation of proteolysis
+positive regulation of reactive oxygen species metabolic process
+positive regulation of receptor signaling pathway via JAK-STAT
+positive regulation of receptor signaling pathway via STAT
+positive regulation of receptor-mediated endocytosis
+positive regulation of regulatory T cell differentiation
+positive regulation of release of sequestered calcium ion into cytosol
+positive regulation of respiratory burst
+positive regulation of response to biotic stimulus
+positive regulation of response to cytokine stimulus
+positive regulation of response to external stimulus
+positive regulation of response to stimulus
+positive regulation of response to wounding
+positive regulation of secretion
+positive regulation of secretion by cell
+positive regulation of signal transduction
+positive regulation of signaling
+positive regulation of small GTPase mediated signal transduction
+positive regulation of small molecule metabolic process
+positive regulation of smooth muscle cell differentiation
+positive regulation of smooth muscle cell migration
+positive regulation of smooth muscle cell proliferation
+positive regulation of stem cell proliferation
+positive regulation of steroid metabolic process
+positive regulation of sterol transport
+positive regulation of stress fiber assembly
+positive regulation of superoxide anion generation
+positive regulation of supramolecular fiber organization
+positive regulation of syncytium formation by plasma membrane fusion
+positive regulation of transcription by RNA polymerase II
+positive regulation of transferase activity
+positive regulation of transforming growth factor beta production
+positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway
+positive regulation of transmembrane transport
+positive regulation of transport
+positive regulation of tumor necrosis factor production
+positive regulation of tumor necrosis factor superfamily cytokine production
+positive regulation of type 2 immune response
+positive regulation of type I interferon production
+positive regulation of type II interferon production
+positive regulation of tyrosine phosphorylation of STAT protein
+positive regulation of vascular associated smooth muscle cell proliferation
+positive regulation of vascular endothelial growth factor production
+positive regulation of vascular endothelial growth factor receptor signaling pathway
+positive regulation of vasculature development
+positive regulation of viral process
+positive regulation of wound healing
+post-embryonic development
+primary lysosome
+primary neural tube formation
+process utilizing autophagic mechanism
+production of molecular mediator involved in inflammatory response
+production of molecular mediator of immune response
+programmed cell death
+programmed cell death involved in cell development
+programmed necrotic cell death
+prostaglandin biosynthetic process
+prostaglandin metabolic process
+prostaglandin secretion
+prostanoid biosynthetic process
+prostanoid metabolic process
+prostate gland development
+prostate gland epithelium morphogenesis
+prostate gland growth
+prostate gland morphogenesis
+protease binding
+protein autophosphorylation
+protein binding
+protein complex involved in cell adhesion
+protein dimerization activity
+protein domain specific binding
+protein homodimerization activity
+protein import into nucleus
+protein kinase activator activity
+protein kinase activity
+protein kinase binding
+protein kinase regulator activity
+protein localization
+protein localization to cell periphery
+protein localization to extracellular region
+protein localization to nucleus
+protein localization to plasma membrane
+protein metabolic process
+protein modification process
+protein phosphatase binding
+protein phosphorylation
+protein secretion
+protein serine/threonine kinase activator activity
+protein transport
+protein tyrosine kinase activator activity
+protein tyrosine kinase activity
+protein tyrosine kinase binding
+protein tyrosine/threonine phosphatase activity
+protein-containing complex binding
+pulmonary valve development
+reactive nitrogen species metabolic process
+reactive oxygen species metabolic process
+receptor complex
+receptor internalization
+receptor ligand activity
+receptor serine/threonine kinase binding
+receptor tyrosine kinase binding
+receptor-mediated endocytosis
+regeneration
+regionalization
+regulation of B cell activation
+regulation of B cell apoptotic process
+regulation of B cell differentiation
+regulation of B cell mediated immunity
+regulation of B cell proliferation
+regulation of BMP signaling pathway
+"regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation"
+"regulation of CD4-positive, alpha-beta T cell activation"
+"regulation of CD4-positive, alpha-beta T cell differentiation"
+"regulation of CD4-positive, alpha-beta T cell proliferation"
+regulation of DNA binding
+regulation of DNA biosynthetic process
+"regulation of DNA damage response, signal transduction by p53 class mediator"
+regulation of DNA metabolic process
+regulation of DNA-binding transcription factor activity
+regulation of DNA-templated transcription
+regulation of ERK1 and ERK2 cascade
+regulation of JNK cascade
+regulation of MAP kinase activity
+regulation of MAPK cascade
+regulation of MHC class II biosynthetic process
+regulation of NK T cell activation
+regulation of NK T cell proliferation
+regulation of RNA biosynthetic process
+regulation of RNA metabolic process
+regulation of Ras protein signal transduction
+regulation of SMAD protein signal transduction
+regulation of T cell activation
+regulation of T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell
+regulation of T cell apoptotic process
+regulation of T cell chemotaxis
+regulation of T cell cytokine production
+regulation of T cell differentiation
+regulation of T cell mediated cytotoxicity
+regulation of T cell mediated immunity
+regulation of T cell migration
+regulation of T cell proliferation
+regulation of T cell tolerance induction
+regulation of T-helper 1 cell cytokine production
+regulation of T-helper 1 type immune response
+regulation of T-helper 17 cell differentiation
+regulation of T-helper 17 type immune response
+regulation of T-helper 2 cell cytokine production
+regulation of T-helper 2 cell differentiation
+regulation of T-helper cell differentiation
+regulation of Wnt signaling pathway
+regulation of actin cytoskeleton organization
+regulation of actin filament bundle assembly
+regulation of actin filament-based process
+regulation of activated T cell proliferation
+regulation of actomyosin structure organization
+regulation of acute inflammatory response
+regulation of adaptive immune response
+regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains
+regulation of alpha-beta T cell activation
+regulation of alpha-beta T cell differentiation
+regulation of alpha-beta T cell proliferation
+regulation of amide metabolic process
+regulation of amyloid precursor protein catabolic process
+regulation of amyloid-beta formation
+regulation of anatomical structure morphogenesis
+regulation of anatomical structure size
+regulation of angiogenesis
+regulation of animal organ formation
+regulation of animal organ morphogenesis
+regulation of anoikis
+regulation of apoptotic process
+regulation of apoptotic process involved in development
+regulation of apoptotic process involved in morphogenesis
+regulation of apoptotic signaling pathway
+regulation of autophagy
+regulation of bicellular tight junction assembly
+regulation of binding
+regulation of biological process
+regulation of biological process involved in symbiotic interaction
+regulation of biological quality
+regulation of biomineral tissue development
+regulation of biosynthetic process
+regulation of blood circulation
+regulation of blood coagulation
+regulation of blood pressure
+regulation of blood vessel endothelial cell migration
+regulation of body fluid levels
+regulation of bone mineralization
+regulation of bone remodeling
+regulation of bone resorption
+regulation of branching involved in lung morphogenesis
+regulation of branching involved in salivary gland morphogenesis
+regulation of branching involved in ureteric bud morphogenesis
+regulation of calcium ion import
+regulation of calcium ion transmembrane transport
+regulation of calcium ion transport
+regulation of calcium-mediated signaling
+regulation of canonical NF-kappaB signal transduction
+regulation of canonical Wnt signaling pathway
+regulation of carbohydrate catabolic process
+regulation of carbohydrate metabolic process
+regulation of cardiac epithelial to mesenchymal transition
+regulation of cardiac muscle cell differentiation
+regulation of cardiac muscle cell proliferation
+regulation of cardiac muscle hypertrophy
+regulation of cardiac muscle tissue growth
+regulation of cardiocyte differentiation
+regulation of cartilage development
+regulation of catabolic process
+regulation of catalytic activity
+regulation of cell activation
+regulation of cell adhesion
+regulation of cell adhesion mediated by integrin
+regulation of cell adhesion molecule production
+regulation of cell communication
+regulation of cell cycle
+regulation of cell cycle process
+regulation of cell development
+regulation of cell differentiation
+regulation of cell division
+regulation of cell fate commitment
+regulation of cell growth
+regulation of cell junction assembly
+regulation of cell killing
+regulation of cell migration
+regulation of cell morphogenesis
+regulation of cell motility
+regulation of cell population proliferation
+regulation of cell projection organization
+regulation of cell proliferation involved in kidney development
+regulation of cell shape
+regulation of cell-cell adhesion
+regulation of cell-matrix adhesion
+regulation of cell-substrate adhesion
+regulation of cell-substrate junction assembly
+regulation of cell-substrate junction organization
+regulation of cellular component biogenesis
+regulation of cellular component organization
+regulation of cellular extravasation
+regulation of cellular localization
+regulation of cellular process
+regulation of cellular response to growth factor stimulus
+regulation of cellular response to stress
+regulation of cellular response to transforming growth factor beta stimulus
+regulation of cellular response to vascular endothelial growth factor stimulus
+regulation of chemokine (C-X-C motif) ligand 2 production
+regulation of chemokine production
+regulation of chemotaxis
+regulation of cholesterol storage
+regulation of chondrocyte differentiation
+regulation of chronic inflammatory response
+regulation of coagulation
+regulation of cold-induced thermogenesis
+regulation of collagen biosynthetic process
+regulation of collagen metabolic process
+regulation of cytokine production
+regulation of cytokine production involved in immune response
+regulation of cytokine production involved in inflammatory response
+regulation of cytokine-mediated signaling pathway
+regulation of cytoskeleton organization
+regulation of defense response
+regulation of dendritic cell antigen processing and presentation
+regulation of dendritic cell apoptotic process
+regulation of determination of dorsal identity
+regulation of developmental growth
+regulation of developmental process
+regulation of endocrine process
+regulation of endocytosis
+regulation of endopeptidase activity
+regulation of endothelial cell apoptotic process
+regulation of endothelial cell chemotaxis
+regulation of endothelial cell differentiation
+regulation of endothelial cell migration
+regulation of endothelial cell proliferation
+regulation of epithelial cell apoptotic process
+regulation of epithelial cell differentiation
+regulation of epithelial cell differentiation involved in kidney development
+regulation of epithelial cell migration
+regulation of epithelial cell proliferation
+regulation of epithelial to mesenchymal transition
+regulation of epithelial to mesenchymal transition involved in endocardial cushion formation
+regulation of epithelial tube formation
+regulation of erythrocyte differentiation
+regulation of establishment of protein localization
+regulation of execution phase of apoptosis
+regulation of extracellular matrix assembly
+regulation of extracellular matrix constituent secretion
+regulation of extracellular matrix organization
+regulation of extrinsic apoptotic signaling pathway
+regulation of extrinsic apoptotic signaling pathway in absence of ligand
+regulation of extrinsic apoptotic signaling pathway via death domain receptors
+regulation of fat cell differentiation
+regulation of fatty acid metabolic process
+regulation of fatty acid transport
+regulation of fever generation
+regulation of fibroblast growth factor receptor signaling pathway
+regulation of fibroblast proliferation
+regulation of focal adhesion assembly
+regulation of follicle-stimulating hormone secretion
+regulation of gene expression
+regulation of generation of precursor metabolites and energy
+regulation of glial cell differentiation
+regulation of glial cell migration
+regulation of glial cell proliferation
+regulation of gliogenesis
+regulation of glomerular mesangial cell proliferation
+regulation of glycolytic process
+regulation of glycoprotein biosynthetic process
+regulation of granulocyte chemotaxis
+regulation of granulocyte macrophage colony-stimulating factor production
+regulation of growth
+regulation of hair cycle
+regulation of hair follicle development
+regulation of heart growth
+regulation of hemopoiesis
+regulation of hemostasis
+regulation of heterotypic cell-cell adhesion
+regulation of homotypic cell-cell adhesion
+regulation of hormone biosynthetic process
+regulation of hormone levels
+regulation of hormone secretion
+regulation of hydrolase activity
+regulation of immature T cell proliferation
+regulation of immature T cell proliferation in thymus
+regulation of immune effector process
+regulation of immune response
+regulation of immune response to tumor cell
+regulation of immune system process
+regulation of immunoglobulin mediated immune response
+regulation of immunoglobulin production
+regulation of inflammatory response
+regulation of inflammatory response to antigenic stimulus
+regulation of innate immune response
+regulation of insulin secretion
+regulation of interferon-alpha production
+regulation of interferon-beta production
+regulation of interleukin-1 beta production
+regulation of interleukin-1 production
+regulation of interleukin-10 production
+regulation of interleukin-12 production
+regulation of interleukin-13 production
+regulation of interleukin-17 production
+regulation of interleukin-2 production
+regulation of interleukin-23 production
+regulation of interleukin-4 production
+regulation of interleukin-5 production
+regulation of interleukin-6 production
+regulation of interleukin-8 production
+regulation of intracellular protein transport
+regulation of intracellular signal transduction
+regulation of intracellular transport
+regulation of intrinsic apoptotic signaling pathway
+regulation of intrinsic apoptotic signaling pathway in response to DNA damage
+regulation of isotype switching
+regulation of isotype switching to IgG isotypes
+regulation of ketone metabolic process
+regulation of kidney development
+regulation of killing of cells of another organism
+regulation of kinase activity
+regulation of leukocyte activation
+regulation of leukocyte adhesion to vascular endothelial cell
+regulation of leukocyte apoptotic process
+regulation of leukocyte cell-cell adhesion
+regulation of leukocyte chemotaxis
+regulation of leukocyte degranulation
+regulation of leukocyte differentiation
+regulation of leukocyte mediated cytotoxicity
+regulation of leukocyte mediated immunity
+regulation of leukocyte migration
+regulation of leukocyte proliferation
+regulation of lipid biosynthetic process
+regulation of lipid localization
+regulation of lipid metabolic process
+regulation of lipid storage
+regulation of lipid transport
+regulation of localization
+regulation of locomotion
+regulation of lymphocyte activation
+regulation of lymphocyte apoptotic process
+regulation of lymphocyte chemotaxis
+regulation of lymphocyte differentiation
+regulation of lymphocyte mediated immunity
+regulation of lymphocyte migration
+regulation of lymphocyte proliferation
+regulation of macromolecule biosynthetic process
+regulation of macromolecule metabolic process
+regulation of macrophage activation
+regulation of macrophage chemotaxis
+regulation of macrophage cytokine production
+regulation of macrophage derived foam cell differentiation
+regulation of macrophage differentiation
+regulation of macrophage migration
+regulation of mast cell chemotaxis
+regulation of mast cell degranulation
+regulation of mast cell proliferation
+regulation of memory T cell differentiation
+regulation of mesenchymal cell proliferation
+regulation of metabolic process
+regulation of metal ion transport
+regulation of metanephric mesenchymal cell migration
+regulation of miRNA metabolic process
+regulation of miRNA transcription
+regulation of microglial cell activation
+regulation of microglial cell migration
+regulation of mitochondrion organization
+regulation of mitotic cell cycle
+regulation of mitotic nuclear division
+regulation of molecular function
+regulation of monoatomic ion transport
+regulation of monocyte chemotactic protein-1 production
+regulation of monocyte chemotaxis
+regulation of monocyte differentiation
+regulation of mononuclear cell migration
+regulation of mononuclear cell proliferation
+regulation of monooxygenase activity
+regulation of morphogenesis of a branching structure
+regulation of morphogenesis of an epithelium
+regulation of multicellular organism growth
+regulation of multicellular organismal development
+regulation of multicellular organismal process
+regulation of muscle adaptation
+regulation of muscle cell apoptotic process
+regulation of muscle cell differentiation
+regulation of muscle hypertrophy
+regulation of muscle organ development
+regulation of muscle system process
+regulation of muscle tissue development
+regulation of myelination
+regulation of myeloid cell apoptotic process
+regulation of myeloid cell differentiation
+regulation of myeloid dendritic cell activation
+regulation of myeloid leukocyte differentiation
+regulation of myeloid leukocyte mediated immunity
+regulation of myoblast differentiation
+regulation of myoblast fusion
+regulation of natural killer cell activation
+regulation of natural killer cell chemotaxis
+regulation of natural killer cell differentiation
+regulation of natural killer cell mediated cytotoxicity
+regulation of natural killer cell mediated cytotoxicity directed against tumor cell target
+regulation of natural killer cell mediated immunity
+regulation of natural killer cell proliferation
+regulation of nervous system development
+regulation of neural precursor cell proliferation
+regulation of neuroblast proliferation
+regulation of neurogenesis
+regulation of neuroinflammatory response
+regulation of neuron apoptotic process
+regulation of neuron projection development
+regulation of neutrophil chemotaxis
+regulation of neutrophil migration
+regulation of nitric oxide biosynthetic process
+regulation of nitric oxide metabolic process
+regulation of nitric-oxide synthase activity
+regulation of nitric-oxide synthase biosynthetic process
+regulation of non-canonical NF-kappaB signal transduction
+regulation of nuclear division
+regulation of nuclease activity
+regulation of nucleobase-containing compound metabolic process
+regulation of nucleocytoplasmic transport
+regulation of nucleotide catabolic process
+regulation of odontogenesis
+regulation of odontogenesis of dentin-containing tooth
+regulation of oligodendrocyte differentiation
+regulation of organ growth
+regulation of organelle organization
+regulation of organic acid transport
+regulation of ossification
+regulation of osteoblast differentiation
+regulation of osteoblast proliferation
+regulation of osteoclast differentiation
+regulation of oxidative stress-induced intrinsic apoptotic signaling pathway
+regulation of oxidoreductase activity
+regulation of p38MAPK cascade
+regulation of pattern recognition receptor signaling pathway
+regulation of peptidase activity
+regulation of peptide hormone secretion
+regulation of peptide secretion
+regulation of peptide transport
+regulation of peptidyl-serine phosphorylation
+regulation of peptidyl-threonine phosphorylation
+regulation of peptidyl-tyrosine phosphorylation
+regulation of phagocytosis
+regulation of phosphate metabolic process
+regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction
+regulation of phosphorus metabolic process
+regulation of phosphorylation
+regulation of plasma membrane bounded cell projection organization
+regulation of platelet activation
+regulation of polysaccharide metabolic process
+regulation of positive chemotaxis
+regulation of primary metabolic process
+regulation of production of molecular mediator of immune response
+regulation of programmed cell death
+regulation of protein autophosphorylation
+regulation of protein binding
+regulation of protein import into nucleus
+regulation of protein kinase activity
+regulation of protein localization
+regulation of protein localization to cell periphery
+regulation of protein localization to membrane
+regulation of protein localization to nucleus
+regulation of protein localization to plasma membrane
+regulation of protein metabolic process
+regulation of protein modification process
+regulation of protein phosphorylation
+regulation of protein secretion
+regulation of protein serine/threonine kinase activity
+regulation of protein stability
+regulation of protein transport
+regulation of protein-containing complex assembly
+regulation of proteolysis
+regulation of purine nucleotide catabolic process
+regulation of reactive oxygen species metabolic process
+regulation of receptor internalization
+regulation of receptor signaling pathway via JAK-STAT
+regulation of receptor signaling pathway via STAT
+regulation of receptor-mediated endocytosis
+regulation of regulatory T cell differentiation
+regulation of release of cytochrome c from mitochondria
+regulation of release of sequestered calcium ion into cytosol
+regulation of reproductive process
+regulation of respiratory burst
+regulation of response to biotic stimulus
+regulation of response to cytokine stimulus
+regulation of response to external stimulus
+regulation of response to stimulus
+regulation of response to stress
+regulation of response to tumor cell
+regulation of response to wounding
+regulation of secretion
+regulation of secretion by cell
+regulation of sequestering of calcium ion
+regulation of signal transduction
+regulation of signal transduction by p53 class mediator
+regulation of signaling
+regulation of signaling receptor activity
+regulation of skeletal muscle tissue development
+regulation of small molecule metabolic process
+regulation of smooth muscle cell differentiation
+regulation of smooth muscle cell migration
+regulation of smooth muscle cell proliferation
+regulation of sprouting angiogenesis
+regulation of stem cell differentiation
+regulation of stem cell proliferation
+regulation of steroid biosynthetic process
+regulation of steroid metabolic process
+regulation of stress fiber assembly
+regulation of striated muscle cell differentiation
+regulation of striated muscle tissue development
+regulation of superoxide anion generation
+regulation of superoxide metabolic process
+regulation of supramolecular fiber organization
+regulation of synapse organization
+regulation of synapse structure or activity
+regulation of syncytium formation by plasma membrane fusion
+regulation of system process
+regulation of systemic arterial blood pressure
+regulation of tau-protein kinase activity
+regulation of tissue remodeling
+regulation of tolerance induction
+regulation of transcription by RNA polymerase II
+regulation of transferase activity
+regulation of transforming growth factor beta production
+regulation of transforming growth factor beta2 production
+regulation of transmembrane receptor protein serine/threonine kinase signaling pathway
+regulation of transmembrane transport
+regulation of transport
+regulation of tube diameter
+regulation of tube size
+regulation of tumor necrosis factor production
+regulation of tumor necrosis factor superfamily cytokine production
+regulation of type 2 immune response
+regulation of type I interferon production
+regulation of type II interferon production
+regulation of tyrosine phosphorylation of STAT protein
+regulation of vascular associated smooth muscle cell differentiation
+regulation of vascular associated smooth muscle cell migration
+regulation of vascular associated smooth muscle cell proliferation
+regulation of vascular endothelial growth factor production
+regulation of vascular endothelial growth factor receptor signaling pathway
+regulation of vascular endothelial growth factor signaling pathway
+regulation of vascular permeability
+regulation of vasculature development
+regulation of vasoconstriction
+regulation of vesicle-mediated transport
+regulation of viral genome replication
+regulation of viral life cycle
+regulation of viral process
+regulation of vitamin D biosynthetic process
+regulation of wound healing
+regulatory T cell differentiation
+release of cytochrome c from mitochondria
+release of sequestered calcium ion into cytosol
+renal system development
+renal system process
+renal system vasculature development
+renal system vasculature morphogenesis
+renal tubule development
+renal tubule morphogenesis
+replacement ossification
+replicative senescence
+reproductive process
+reproductive structure development
+reproductive system development
+respiratory burst
+respiratory system development
+respiratory tube development
+response to BMP
+response to L-ascorbic acid
+response to UV
+response to UV-A
+response to UV-B
+response to abiotic stimulus
+response to acid chemical
+response to activity
+response to alcohol
+response to amino acid
+response to amyloid-beta
+response to angiotensin
+response to axon injury
+response to bacterium
+response to biotic stimulus
+response to carbohydrate
+response to chemical
+response to chemokine
+response to cholesterol
+response to corticosteroid
+response to cytokine
+response to decreased oxygen levels
+response to endogenous stimulus
+response to epidermal growth factor
+response to erythropoietin
+response to estradiol
+response to estrogen
+response to ethanol
+response to external biotic stimulus
+response to external stimulus
+response to fatty acid
+response to fibroblast growth factor
+response to fluid shear stress
+response to fungus
+response to gamma radiation
+response to glucocorticoid
+response to glucose
+response to growth factor
+response to growth hormone
+response to heat
+response to hexose
+response to hormone
+response to hydrogen peroxide
+response to hypoxia
+response to insulin
+response to interferon-alpha
+response to interferon-beta
+response to interleukin-1
+response to interleukin-12
+response to interleukin-15
+response to interleukin-17
+response to interleukin-2
+response to interleukin-4
+response to interleukin-6
+response to interleukin-9
+response to ionizing radiation
+response to ischemia
+response to ketone
+response to light stimulus
+response to lipid
+response to lipopolysaccharide
+response to lipoprotein particle
+response to lipoteichoic acid
+response to macrophage colony-stimulating factor
+response to mechanical stimulus
+response to metal ion
+response to mineralocorticoid
+response to molecule of bacterial origin
+response to monosaccharide
+response to muramyl dipeptide
+response to muscle stretch
+response to nicotine
+response to nitrogen compound
+response to nutrient
+response to nutrient levels
+response to organic cyclic compound
+response to organophosphorus
+response to osmotic stress
+response to other organism
+response to oxidative stress
+response to oxygen levels
+response to oxygen-containing compound
+response to peptide
+response to peptide hormone
+response to platelet-derived growth factor
+response to progesterone
+response to protozoan
+response to purine-containing compound
+response to radiation
+response to reactive oxygen species
+response to retinoic acid
+response to starvation
+response to steroid hormone
+response to sterol
+response to stimulus
+response to stress
+response to temperature stimulus
+response to toxic substance
+response to transforming growth factor beta
+response to tumor cell
+response to tumor necrosis factor
+response to type I interferon
+response to type II interferon
+response to type III interferon
+response to virus
+response to vitamin
+response to vitamin D
+response to vitamin E
+response to wounding
+response to xenobiotic stimulus
+retina vasculature development in camera-type eye
+reversible differentiation
+rhythmic process
+roof of mouth development
+ruffle
+ruffle membrane
+salivary gland development
+salivary gland morphogenesis
+scaffold protein binding
+scavenger receptor activity
+secondary palate development
+secretion
+secretion by cell
+secretory granule
+secretory granule lumen
+secretory granule membrane
+secretory vesicle
+semi-lunar valve development
+sensory organ development
+sensory organ morphogenesis
+sensory system development
+sequestering of calcium ion
+serine hydrolase activity
+serine-type endopeptidase activity
+serine-type peptidase activity
+sex differentiation
+side of membrane
+signal release
+signal transduction
+signal transduction in absence of ligand
+signal transduction in response to DNA damage
+signaling
+signaling receptor activator activity
+signaling receptor activity
+signaling receptor binding
+signaling receptor regulator activity
+skeletal muscle cell proliferation
+skeletal muscle satellite cell maintenance involved in skeletal muscle regeneration
+skeletal muscle tissue regeneration
+skeletal system development
+skeletal system morphogenesis
+skin development
+skin epidermis development
+small molecule biosynthetic process
+smooth muscle cell differentiation
+smooth muscle cell migration
+smooth muscle cell proliferation
+somatic cell DNA recombination
+somatic diversification of immune receptors
+somatic diversification of immune receptors via germline recombination within a single locus
+somatic diversification of immunoglobulins
+somatic diversification of immunoglobulins involved in immune response
+somatic recombination of immunoglobulin gene segments
+somatic recombination of immunoglobulin genes involved in immune response
+somatic stem cell population maintenance
+somatodendritic compartment
+specific granule
+specific granule lumen
+specific granule membrane
+specification of animal organ identity
+sprouting angiogenesis
+stem cell development
+stem cell differentiation
+stem cell proliferation
+steroid binding
+steroid biosynthetic process
+steroid metabolic process
+stress fiber assembly
+stress-activated protein kinase signaling cascade
+striated muscle cell development
+striated muscle cell differentiation
+striated muscle cell proliferation
+striated muscle hypertrophy
+striated muscle tissue development
+structural constituent of skin epidermis
+structural molecule activity
+substrate adhesion-dependent cell spreading
+sulfur compound binding
+superoxide anion generation
+superoxide metabolic process
+supramolecular fiber
+supramolecular fiber organization
+supramolecular polymer
+symbiont entry into host
+symbiont entry into host cell
+synapse organization
+synapse pruning
+syncytium formation
+syncytium formation by plasma membrane fusion
+system development
+system process
+taxis
+telomerase holoenzyme complex assembly
+temperature homeostasis
+tertiary granule
+tertiary granule lumen
+tertiary granule membrane
+thymic T cell selection
+tight junction assembly
+tight junction organization
+tissue development
+tissue homeostasis
+tissue migration
+tissue morphogenesis
+tissue regeneration
+tissue remodeling
+tolerance induction
+toll-like receptor signaling pathway
+trabecula morphogenesis
+trachea cartilage development
+trachea development
+transcription by RNA polymerase II
+transcription coactivator binding
+transcription coregulator binding
+transcription corepressor binding
+transcription factor binding
+transcription regulator activator activity
+transcription regulator complex
+"transferase activity, transferring phosphorus-containing groups"
+transforming growth factor beta binding
+transforming growth factor beta production
+transforming growth factor beta receptor activity
+"transforming growth factor beta receptor activity, type I"
+transforming growth factor beta receptor binding
+transforming growth factor beta receptor signaling pathway
+transforming growth factor beta receptor superfamily signaling pathway
+transforming growth factor beta1 production
+transforming growth factor beta2 production
+transmembrane receptor protein kinase activity
+transmembrane receptor protein serine/threonine kinase activity
+transmembrane receptor protein serine/threonine kinase binding
+transmembrane receptor protein tyrosine kinase activator activity
+transmembrane receptor protein tyrosine kinase activity
+transmembrane signaling receptor activity
+transmembrane-ephrin receptor activity
+transport
+tube development
+tube formation
+tube morphogenesis
+tumor necrosis factor production
+tumor necrosis factor receptor activity
+tumor necrosis factor receptor binding
+tumor necrosis factor receptor superfamily binding
+tumor necrosis factor superfamily cytokine production
+tumor necrosis factor-mediated signaling pathway
+type 2 immune response
+type B pancreatic cell development
+type I interferon production
+type I interferon-mediated signaling pathway
+type I transforming growth factor beta receptor binding
+type II interferon production
+type II interferon-mediated signaling pathway
+type II transforming growth factor beta receptor binding
+type III interferon-mediated signaling pathway
+type III transforming growth factor beta receptor binding
+tyrosine phosphorylation of STAT protein
+ubiquitin protein ligase binding
+ubiquitin-like protein ligase binding
+unsaturated fatty acid biosynthetic process
+unsaturated fatty acid metabolic process
+ureteric bud development
+ureteric bud morphogenesis
+urogenital system development
+uterus development
+vacuolar localization
+vacuolar lumen
+vacuole
+vascular associated smooth muscle cell differentiation
+vascular associated smooth muscle cell migration
+vascular associated smooth muscle cell proliferation
+vascular endothelial growth factor production
+vascular endothelial growth factor receptor binding
+vascular endothelial growth factor receptor signaling pathway
+vascular endothelial growth factor signaling pathway
+vascular process in circulatory system
+vascular wound healing
+vasculature development
+vasculogenesis
+vasoconstriction
+vasodilation
+venous blood vessel development
+ventricular cardiac muscle tissue development
+ventricular cardiac muscle tissue morphogenesis
+ventricular septum development
+ventricular septum morphogenesis
+ventricular trabecula myocardium morphogenesis
+vesicle
+vesicle lumen
+vesicle membrane
+vesicle-mediated transport
+viral genome replication
+viral life cycle
+viral process
+virion attachment to host cell
+virus receptor activity
+visual system development
+wound healing
+wound healing involved in inflammatory response
+"wound healing, spreading of cells"
+"wound healing, spreading of epidermal cells"

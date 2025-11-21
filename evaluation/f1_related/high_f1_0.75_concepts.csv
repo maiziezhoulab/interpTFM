@@ -1,0 +1,44 @@
+feature,max_F1,top_concept
+2430,1.0,negative regulation of endothelial cell migration
+208,1.0,positive regulation of vascular associated smooth muscle cell proliferation
+71,0.9720412024385116,regulation of DNA biosynthetic process
+1725,0.9637305699481866,peptide secretion
+1644,0.9436665581243894,positive regulation of endothelial cell apoptotic process
+3883,0.9285714285714286,alpha-beta T cell activation involved in immune response
+108,0.922087745839637,regulation of primary metabolic process
+1860,0.9216255442670536,response to temperature stimulus
+324,0.9184115523465703,regulation of natural killer cell mediated immunity
+3210,0.9179349447925992,lytic vacuole
+3250,0.9123020706455544,regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains
+895,0.911460488208523,cellular response to oxidative stress
+2729,0.911302982731554,regulation of catalytic activity
+731,0.906145251396648,regulation of immune effector process
+3157,0.9014022787028922,carbohydrate derivative binding
+2327,0.8984660336011687,negative regulation of B cell proliferation
+2753,0.8961119111293973,interleukin-12 production
+4012,0.8938775510204082,regulation of blood circulation
+1162,0.8882455124493341,regulation of biological process involved in symbiotic interaction
+3828,0.8874458874458875,positive regulation of transmembrane transport
+1658,0.8768406961178046,prostaglandin biosynthetic process
+2176,0.872340425531915,endocrine process
+4023,0.8468981217985202,endothelial cell proliferation
+3942,0.8344412788857233,regulation of cell activation
+1793,0.8330058939096268,macrophage chemotaxis
+3431,0.8300873069173941,positive regulation of monoatomic ion transport
+2922,0.8257510729613734,positive regulation of macrophage derived foam cell differentiation
+24,0.8245219347581553,regulation of canonical NF-kappaB signal transduction
+1640,0.8241269841269842,response to acid chemical
+462,0.8231727854496463,regulation of lipid metabolic process
+481,0.8190045248868778,interleukin-27-mediated signaling pathway
+3980,0.8099308099308099,regulation of interleukin-4 production
+2316,0.7910042652190771,molecular transducer activity
+3302,0.7781818181818181,regulation of tumor necrosis factor superfamily cytokine production
+1669,0.7770083102493076,"""CD4-positive, alpha-beta T cell proliferation"""
+438,0.7754744525547445,cytoplasmic pattern recognition receptor signaling pathway
+1385,0.7729866835764109,positive regulation of apoptotic signaling pathway
+3797,0.762589928057554,necroptotic process
+144,0.7593307593307593,regulation of interleukin-5 production
+748,0.7582839204743634,phosphatidylinositol 3-kinase/protein kinase B signal transduction
+3667,0.7551533433886375,pancreas development
+3573,0.7540826128722383,Golgi apparatus
+1270,0.7505854800936768,negative regulation of nervous system development

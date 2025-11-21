@@ -1,0 +1,40 @@
+MIS1011:
+
+Step 2 — Biological Interpretation (Gene-level)
+
+Goal: See what biology drives each interpretable unit — “what is this latent dimension about?”
+
+Approach
+
+Take the top-N cells (e.g., 5% or 10%) with the highest activation for a given unit.
+
+Compute mean z-scored expression profile for these cells.
+
+Compare to population mean → differential expression (Δz).
+
+Run pathway or GO enrichment (e.g., gseapy / enrichr / GOATOOLS) on the top upregulated genes.
+
+Optional: correlate each unit’s activation vector with expression of known markers.
+
+Expected output
+
+Heatmap of Δz for top units × top marker genes.
+
+Table of top enriched pathways per unit (e.g., “T-cell activation”, “ECM remodeling”, etc.).
+
+These explain the biological theme of each high-MIS unit.
+##########
+
+Must-do (high impact, low overhead)
+
+Cell-type specificity audit (per unit):
+Recompute enrichment after excluding tumor cells, and again using only tumor cells. Report Δ(log2 OR) and Δ(adj-p) for key terms. If signals persist in non-tumor, you’ve got microenvironment biology; if they persist in tumor-only, it supports tumor-intrinsic programs.
+
+Donor/batch stratification (already partly done):
+Recompute MIS and enrichment within each donor; meta-analyze with a random-effects model. Add a “donor consistency” column (e.g., % donors with adj-p<0.05 & same direction).
+
+Threshold sensitivity:
+Repeat the analysis at top 2.5% / 5% / 10% high-activation. Keep terms that are stable across ≥2 thresholds and pass your ≥10% overlap ratio rule.
+
+Null/perm tests:
+(i) Shuffle unit activations within cell type; (ii) rotate A with an orthonormal random basis; (iii) enrich with random gene lists matched for length and expression deciles. Estimate empirical FDR and report it alongside Enrichr FDR.
