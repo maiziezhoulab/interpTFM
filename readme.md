@@ -150,7 +150,7 @@ Python files (with notebook structure):
   author       = {Hu, Wen, Lin, Qin, Yuan, Liu, Klindt, Zhang, Carja, Zhou},
   title        = {interpTFM: Mechanistic Interpretability for Transcriptomic Foundation Models},
   year         = {2025},
-  url          = {https://github.com/OliiverHu/interGFM}
+  url          = {https://github.com/maiziezhoulab/interpTFM}
 }
 ```
 
