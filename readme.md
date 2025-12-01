@@ -13,7 +13,7 @@ The framework evaluates both gene-token and cell-token representations through:
 
 <!-- These components reveal biological programs encoded by TFMs and support steerable perturbation-like analyses. -->
 
-![interpTFM pipeline](figs/pipeline.png)
+![interpTFM pipeline](figs/pipeline.jpg)
 
 ---
 
